@@ -10,6 +10,7 @@ This section provides detailed information about me, including a brief bio, my e
 Skills Tab: Lists my key skills such as UI/UX Design, Web Development, and App Development.
 Experience Tab: Outlines my professional journey, including roles and responsibilities held in previous positions.
 Education Tab: Highlights my academic background and relevant coursework.
+
 3. Services Section
 The Services section outlines the professional services I offer. Each service is presented with an icon, title, brief description, and a link for more information.
 
@@ -52,8 +53,9 @@ Feel free to get in touch with me through the contact form on the website or via
 
 Email: imsatyam@gmail.com
 Phone: 9648220300
-GitHub: Satyam
-Twitter: Satyam
-Instagram: Satyam
-LinkedIn: Satyam Srivastava
+GitHub: satyam0905
+Twitter: SatyamSriv35455
+Instagram: satyam1071
+LinkedIn: satyam-srivastava0905
+
 Thank you for visiting my portfolio website!
